@@ -1,23 +1,19 @@
-# PicoSMARS
-Welcome MagPi readers!
+# Mini Ell-E
 
-This is the code repository for PicoSMARS - the Raspbery Pi Powered SMARS Robot. Checkout [SMARSFan.com](https://www.smarsfan.com) for more information about these amazing small robots. 
+Inspired by Wall-E, Mini Ell-E is my very first robot. I've used bases from two other projects 
+and will be combining them to create Ell-E. 
 
-I also have a YouTube channel dedicated to Small Robots, be sure to check it out: <https://www.youtube.com/c/kevinmcaleer28>
+The base uses the SMARS robot by [Kevin McAleer](https://www.github.com/kevinmcaleer). The specific robot can be
+found [here](https://www.kevsrobots.com/blog/picosmars.html). 
 
----
-
-Check out the accompanying video:
-
-[![PicoSMARS](https://img.youtube.com/vi/Gl4o4iHPvDM/0.jpg)](https://www.youtube.com/watch?v=Gl4o4iHPvDM)
-
-A Raspberry Pi Pico / Pimoroni Tiny2040 powered SMARS Robot.
-Uses the VL53L0X Time of flight Range finder as well as the MX1508 Motor driver board.
+The robot arm is by [BuildSomeStuff](https://www.github.com/BuildSomeStuff). The link to their youtube video on
+its construction [here](https://www.youtube.com/watch?v=6de55CUOTI4).
 
 ---
 
-## PicoSMARS website:
-Visit <https://www.smarsfan.com/bots/pico/picosmars> to download the STL files, code and to learn more about this project.
+This repository will record my progress on this project (probably very slow - many firsts) and
+any changes I make to the above designs/additional information.
 
-## SMARS Mini website
-Visit <https://www.smarsfan.com/smars_mini> to download the STL files and learn more about this project.
+
+
+
