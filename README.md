@@ -14,6 +14,13 @@ its construction [here](https://www.youtube.com/watch?v=6de55CUOTI4).
 This repository will record my progress on this project (probably very slow - many firsts) and
 any changes I make to the above designs/additional information.
 
+So Far:
 
+Various research
+Editing of some designs
+3D Parts for base and the arm printed (some missing - will be printed at a later date)
+Began parts of code
+
+Currently waiting on screws to arrive as the ones I have access to are too small for the arm.
 
 
