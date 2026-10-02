@@ -16,9 +16,9 @@ any changes I make to the above designs/additional information.
 
 So Far:
 
-Various research <\n>
-Editing of some designs
-3D Parts for base and the arm printed (some missing - will be printed at a later date)
+Various research  
+Editing of some designs  
+3D Parts for base and the arm printed (some missing - will be printed at a later date)  
 Began parts of code
 
 Currently waiting on screws to arrive as the ones I have access to are too small for the arm.
